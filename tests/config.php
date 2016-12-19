@@ -42,32 +42,4 @@ return [
         'err' => 'file:///tmp/date_5.log',
         'time' =>  '* * * * *',
     ],
-    [
-        'name' => '6',
-        'cmd' => "date",
-        'out' => 'file:///tmp/date_6.log',
-        'err' => 'file:///tmp/date_6.log',
-        'time' =>  '* * * * *',
-    ],
-    [
-        'name' => '7',
-        'cmd' => "date",
-        'out' => 'file:///tmp/date_7.log',
-        'err' => 'file:///tmp/date_7.log',
-        'time' =>  '* * * * *',
-    ],
-    [
-        'name' => '8',
-        'cmd' => "date",
-        'out' => 'file:///tmp/date_8.log',
-        'err' => 'file:///tmp/date_8.log',
-        'time' =>  '* * * * *',
-    ],
-    [
-        'name' => '9',
-        'cmd' => "date",
-        'out' => 'file:///tmp/date_9.log',
-        'err' => 'file:///tmp/date_9.log',
-        'time' =>  '* * * * *',
-    ],
 ];
